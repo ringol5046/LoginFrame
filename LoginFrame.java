@@ -17,7 +17,7 @@ import javax.swing.JPanel;
 import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 
-/*Business P11.26  Write a program with a graphical interface that implements a login window with text
+/*Business P11.26   Write a program with a graphical interface that implements a login window with text
  fields for the user name and password. When the login is successful, hide the login
  window and open a new window with a welcome message. Follow these rules for
  validating the password:
